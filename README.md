@@ -19,6 +19,6 @@
   <img align="right" height="80" width="80" alt="Paul-cat" src="https://media.tenor.com/E2n40PIjRCQAAAAM/cat-cat-meme.gif">
 </div>
 
-![Snake gif](https://github.com/Paulsantts/Paulsantts/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Paulsantts/Paulsantts/blob/output/github-contribution-grid-snake.svg)
 
 
