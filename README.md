@@ -7,6 +7,7 @@
 
 <div>
   <a href="https://github.com/Paulsantts">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Paulsantts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private+true"/>
 
  [![Paulsantts](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulsantts&hide=html&layout=compact&theme=tokyonight)](https://github.com/Paulsantts) 
 
