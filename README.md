@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on HTML
-- 📖 I’m currently learning HTML, Javascript and CSS
-- 📫 How to reach me: aureoqe@gmail.com or santos.paulo@ufu.br
+- 📖 I’m currently learning Javascript and Python
+- 📫 How to reach me: santos.paulo@ufu.br or aureoqe@gmail.com
 - 😄 Pronouns: He/Him
 - 🌐 I speak Portuguese, English and Spanish
 
