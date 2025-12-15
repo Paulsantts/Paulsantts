@@ -1,9 +1,8 @@
 ## Olá, eu sou Paulo! | Hi there, I'm Paulo!
 
 
-- 🔭 I’m currently working on HTML
-- 📖 I’m currently learning Javascript and Python
-- 📫 How to reach me: santos.paulo@ufu.br or aureoqe@gmail.com
+- 📖 I’m currently learning Python and C#
+- 📫 How to reach me: aureoqe@gmail.com or santos.paulo@ufu.br
 - 😄 Pronouns: He/Him
 - 🌐 I speak Portuguese, English and Spanish
 
