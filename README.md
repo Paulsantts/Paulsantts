@@ -25,7 +25,7 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulsantts)](https://github.com/Paulsantts/github-readme-stats)
+src="https://github-readme-stats.vercel.app/api?username=Paulsantts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21600"
 
 
 ##
