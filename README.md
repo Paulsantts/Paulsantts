@@ -21,7 +21,8 @@
   <img align="center" alt="Html5-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Java-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Css-logo" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Python-logo" height="30" width="40" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?20250701090410">
+  <img align="center" alt="Python-logo" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="C#-logo" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 
   <img align="right" height="80" width="80" alt="Paul-cat" src="https://media.tenor.com/E2n40PIjRCQAAAAM/cat-cat-meme.gif">
 </div>
