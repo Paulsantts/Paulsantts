@@ -34,7 +34,9 @@
 <div align="center">
   <p>My social networks</p>
  <a href="https://www.instagram.com/santozpa?igsh=NjVwN3F3Mmppb2cw&utm_source=qr" target="_blank"><img alt="INSTAGRAM-logo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="mailto:santos.paulo@outlook.com" target="_blank"><img alt="MAIL-logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="mailto:aureoqe@gmail.com" target="_blank"><img alt="MAIL-logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/paulo-santos-7a4a0538b" target="_blank"><img alt="LinkedIn-logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
 </div>
 
 ##
