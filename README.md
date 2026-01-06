@@ -23,6 +23,10 @@
   </a>
 </p>
 
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulsantts)](https://github.com/Paulsantts/github-readme-stats)
+
 
 ##
     
