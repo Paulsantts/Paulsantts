@@ -25,7 +25,7 @@
 
 ##
 
-src="https://github-readme-stats.vercel.app/api?username=Paulsantts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21600"
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulsantts)](https://github.com/paulsantts/github-readme-stats)
 
 
 ##
